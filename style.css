@@ -494,6 +494,7 @@ body {
     fill: white;
   }
 }
+
 @media screen and (max-width: 768px) {
   .HeaderContent, fixed, #fexidHeader, .arrow.arrow-first, .arrow.arrow-second, .scroll {
     display: none;
